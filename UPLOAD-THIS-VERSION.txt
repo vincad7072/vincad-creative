@@ -1,0 +1,2 @@
+This version is intentionally flat for GitHub's web uploader.
+Upload all files directly to the repository root. index.html must sit beside style.css, main.js and the image files.
