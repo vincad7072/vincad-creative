@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850">
+  <rect width="1200" height="850" fill="#ebe6df"/>
+  <rect x="80" y="80" width="1040" height="690" fill="#171819"/>
+  <circle cx="950" cy="175" r="120" fill="#fc5b05" opacity=".95"/>
+  <path d="M85 620 C320 510 500 740 720 620 S1020 470 1120 590" fill="none" stroke="#fc5b05" stroke-width="8"/>
+  <text x="130" y="320" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700">GAME GEAR</text>
+  <text x="130" y="395" fill="#cfcfcf" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="4">PROJECT IMAGE PLACEHOLDER</text>
+  <text x="130" y="690" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="24">Replace this SVG with a real campaign image</text>
+</svg>

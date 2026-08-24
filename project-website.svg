@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850">
+  <rect width="1200" height="850" fill="#f1ece6"/>
+  <rect x="145" y="110" width="910" height="620" rx="18" fill="#fff" stroke="#d8cec3" stroke-width="4"/>
+  <rect x="145" y="110" width="910" height="72" rx="18" fill="#1e1f20"/>
+  <circle cx="195" cy="146" r="10" fill="#fc5b05"/>
+  <rect x="220" y="264" width="315" height="295" fill="#263946"/>
+  <rect x="590" y="260" width="320" height="34" fill="#ded7cf"/>
+  <rect x="590" y="316" width="390" height="20" fill="#ebe5de"/>
+  <rect x="590" y="357" width="350" height="20" fill="#ebe5de"/>
+  <rect x="590" y="416" width="180" height="48" fill="#fc5b05"/>
+  <text x="220" y="650" fill="#1b1b1a" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">WEBSITE PROJECT</text>
+  <text x="220" y="695" fill="#6c6762" font-family="Arial, Helvetica, sans-serif" font-size="22">Replace with an approved website project image</text>
+</svg>

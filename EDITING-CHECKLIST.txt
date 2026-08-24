@@ -1,0 +1,14 @@
+VINCAD CREATIVE GITHUB PAGES EDITING CHECKLIST
+
+BEFORE PUBLISHING
+
+1. Open index.html.
+2. Add Lisa's real email address.
+3. Add Lisa's real phone number.
+4. Replace the three project placeholder images with approved real work.
+5. Replace the temporary Lisa portrait when the preferred image is ready.
+6. Review all project descriptions for accuracy.
+7. Check the website on desktop and mobile.
+8. Test every navigation link.
+9. Check spelling and punctuation.
+10. When the custom domain is ready, connect vincad.co.nz through GitHub Pages settings and DNS.
