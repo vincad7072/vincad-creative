@@ -52,3 +52,6 @@ Replace `assets/images/vincad-hero.webp` with a new WebP image using the same fi
 ## Custom domain later
 
 When you are ready to point `vincad.co.nz` to GitHub Pages, add the custom domain in GitHub Pages settings first and then follow GitHub's DNS instructions. Do not add a CNAME file until the domain is ready to be connected.
+
+## Latest hero update
+The homepage hero now uses `hero-conversation.webp`, based on the supplied Vincad creative artwork. The headline and button remain live HTML in `index.html`, so they are editable and responsive. The header uses the supplied fantail version of the Vincad logo.
